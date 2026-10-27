@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 132" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">Ameen Advisory</title>
+  <g transform="translate(8 10)">
+    <rect x="4" y="5" width="84" height="93" rx="14" fill="none" stroke="#0874bd" stroke-width="6"/>
+    <rect x="15" y="17" width="62" height="14" rx="3" fill="none" stroke="#0874bd" stroke-width="4"/>
+    <path d="M18 40h8m9 0h8m9 0h8M18 52h8m9 0h8m9 0h8M18 64h8m9 0h8" fill="none" stroke="#0874bd" stroke-width="5" stroke-linecap="round"/>
+    <path d="M24 90V67l14 9 16-13v27" fill="none" stroke="#0874bd" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M-9 62 30 42l20 12 30-19" fill="none" stroke="#ffa21b" stroke-width="6" stroke-linecap="square"/>
+    <path d="m74 33 16-5-7 15z" fill="#ffa21b"/>
+  </g>
+  <text x="101" y="87" fill="#0874bd" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" letter-spacing="-3">AMEEN</text>
+  <text x="185" y="119" fill="#ffa21b" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" letter-spacing="-.7">Advisory</text>
+</svg>
